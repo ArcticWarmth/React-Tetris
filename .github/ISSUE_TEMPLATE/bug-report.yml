@@ -42,4 +42,4 @@ body:
   - type: textarea
     id: extra
     attributes:
-      Llabel: Anything Else?
+      label: Anything Else?
