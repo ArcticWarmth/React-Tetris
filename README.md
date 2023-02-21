@@ -1,3 +1,5 @@
+>## This project is on hold until futher notice as I need to start on another important project
+
 # React-Tetris
 A version of twitch tetris ported to react
 
